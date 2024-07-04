@@ -63,7 +63,7 @@ set LT_ACCESS_KEY=LT_ACCESS_KEY" tabindex="0" role="button">
 The test was successfully run and the LambdaTest automation dashboard indicates the status of the test execution.
 
 <div id="header" align="center">
-  <img src="https://github.com/SripriyaPKulkarni/errorcollector-junit-selenium-testing-java/blob/master/LTreport.png" width="1000"/>
+  <img src="https://github.com/SripriyaPKulkarni/Junit_Java_Project/blob/master/LTResult.png" width="1000"/>
 </div>
 
 <h3><p dir="auto"><g-emoji class="g-emoji" alias="dna" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ec.png">🧬</g-emoji> Need Assistance?</p></h3>
