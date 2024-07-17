@@ -35,8 +35,8 @@ public class JUnitDemoClass {
         browserOptions.setPlatformName("Windows 11");
         browserOptions.setBrowserVersion("126.0");
         HashMap<String, Object> ltOptions = new HashMap<String, Object>();
-        ltOptions.put("username", "sripriyapkulkarni");
-        ltOptions.put("accessKey", "NMt43ZDK7n5MrTZkp8NjsTXjiveSA4JPIGjUqvt3uwSbSwLAjo");
+        ltOptions.put("username", "username");
+        ltOptions.put("accessKey", "accesskey");
         ltOptions.put("project", "Junit Test");
         ltOptions.put("w3c", true);
         ltOptions.put("plugin", "java-testNG");
