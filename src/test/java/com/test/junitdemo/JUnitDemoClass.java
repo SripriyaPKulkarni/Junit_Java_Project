@@ -18,9 +18,9 @@ import static org.junit.jupiter.api.parallel.ExecutionMode.CONCURRENT;
 public class JUnitDemoClass {
 
 
-    public String username = "username";
-    public String accesskey = "access_key";
-
+    public String username = "LT_USERNAME";
+    public String accesskey = "LT_ACCESS_KEY";
+    
     public static RemoteWebDriver driver;
     public String gridURL = "@hub.lambdatest.com/wd/hub";
     boolean status = false;
